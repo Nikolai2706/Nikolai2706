@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="IsThatYourBest.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="IsThatYourBest0000" x="0" y="0" width="800" height="1000"/>
+	<SubTexture name="IsThatYourBest0001" x="0" y="0" width="800" height="1000"/>
+	<SubTexture name="IsThatYourBest0002" x="800" y="0" width="800" height="1000"/>
+	<SubTexture name="IsThatYourBest0003" x="800" y="0" width="800" height="1000"/>
+	<SubTexture name="IsThatYourBest0004" x="1600" y="0" width="800" height="1000"/>
+	<SubTexture name="IsThatYourBest0005" x="1600" y="0" width="800" height="1000"/>
+	<SubTexture name="IsThatYourBest0006" x="0" y="1000" width="800" height="1000"/>
+	<SubTexture name="IsThatYourBest0007" x="0" y="1000" width="800" height="1000"/>
+	<SubTexture name="IsThatYourBest0008" x="0" y="1000" width="800" height="1000"/>
+	<SubTexture name="IsThatYourBest0009" x="0" y="1000" width="800" height="1000"/>
+	<SubTexture name="IsThatYourBest0010" x="0" y="1000" width="800" height="1000"/>
+	<SubTexture name="IsThatYourBest0011" x="0" y="1000" width="800" height="1000"/>
+	<SubTexture name="IsThatYourBest0012" x="0" y="1000" width="800" height="1000"/>
+	<SubTexture name="IsThatYourBest0013" x="0" y="1000" width="800" height="1000"/>
+	<SubTexture name="IsThatYourBest0014" x="0" y="1000" width="800" height="1000"/>
+	<SubTexture name="IsThatYourBest0015" x="0" y="1000" width="800" height="1000"/>
+	<SubTexture name="IsThatYourBest0016" x="0" y="1000" width="800" height="1000"/>
+	<SubTexture name="IsThatYourBest0017" x="0" y="1000" width="800" height="1000"/>
+	<SubTexture name="IsThatYourBest0018" x="800" y="1000" width="800" height="1000"/>
+	<SubTexture name="IsThatYourBest0019" x="800" y="1000" width="800" height="1000"/>
+	<SubTexture name="IsThatYourBest0020" x="1600" y="1000" width="800" height="1000"/>
+	<SubTexture name="IsThatYourBest0021" x="1600" y="1000" width="800" height="1000"/>
+	<SubTexture name="IsThatYourBest0022" x="0" y="2000" width="800" height="1000"/>
+	<SubTexture name="IsThatYourBest0023" x="0" y="2000" width="800" height="1000"/>
+	<SubTexture name="IsThatYourBest0024" x="800" y="2000" width="800" height="1000"/>
+	<SubTexture name="IsThatYourBest0025" x="800" y="2000" width="800" height="1000"/>
+	<SubTexture name="IsThatYourBest0026" x="1600" y="2000" width="800" height="1000"/>
+	<SubTexture name="IsThatYourBest0027" x="1600" y="2000" width="800" height="1000"/>
+	<SubTexture name="IsThatYourBest0028" x="1600" y="2000" width="800" height="1000"/>
+	<SubTexture name="IsThatYourBest0029" x="1600" y="2000" width="800" height="1000"/>
+	<SubTexture name="IsThatYourBest0030" x="1600" y="2000" width="800" height="1000"/>
+	<SubTexture name="IsThatYourBest0031" x="1600" y="2000" width="800" height="1000"/>
+	<SubTexture name="IsThatYourBest0032" x="1600" y="2000" width="800" height="1000"/>
+	<SubTexture name="IsThatYourBest0033" x="1600" y="2000" width="800" height="1000"/>
+	<SubTexture name="IsThatYourBest0034" x="1600" y="2000" width="800" height="1000"/>
+	<SubTexture name="IsThatYourBest0035" x="1600" y="2000" width="800" height="1000"/>
+	<SubTexture name="IsThatYourBest0036" x="1600" y="2000" width="800" height="1000"/>
+	<SubTexture name="IsThatYourBest0037" x="1600" y="2000" width="800" height="1000"/>
+	<SubTexture name="IsThatYourBest0038" x="1600" y="2000" width="800" height="1000"/>
+	<SubTexture name="IsThatYourBest0039" x="1600" y="2000" width="800" height="1000"/>
+	<SubTexture name="IsThatYourBest0040" x="1600" y="2000" width="800" height="1000"/>
+	<SubTexture name="IsThatYourBest0041" x="1600" y="2000" width="800" height="1000"/>
+	<SubTexture name="IsThatYourBest0042" x="1600" y="2000" width="800" height="1000"/>
+	<SubTexture name="IsThatYourBest0043" x="1600" y="2000" width="800" height="1000"/>
+	<SubTexture name="IsThatYourBest0044" x="1600" y="2000" width="800" height="1000"/>
+	<SubTexture name="IsThatYourBest0045" x="1600" y="2000" width="800" height="1000"/>
+</TextureAtlas>
