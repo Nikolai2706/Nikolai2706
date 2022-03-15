@@ -1,0 +1,79 @@
+{
+	"song": {
+		"speed": 3.5,
+		"stage": "FireStage",
+		"player1": "bf-mecha",
+		"player2": "metallix",
+		"player3": null,
+		"events": [
+			[
+				38436.1809045226,
+				[
+					[
+						"Change Character",
+						"1",
+						"metallix-crit"
+					]
+				]
+			],
+			[
+				39411.1809045226,
+				[
+					[
+						"Change Character",
+						"1",
+						"metallix"
+					]
+				]
+			],
+			[
+				78072.3618090452,
+				[
+					[
+						"Change Character",
+						"1",
+						"metallix-crit"
+					]
+				]
+			],
+			[
+				79572.3618090452,
+				[
+					[
+						"Change Character",
+						"1",
+						"metallix"
+					]
+				]
+			],
+			[
+				99921.4824120603,
+				[
+					[
+						"Change Character",
+						"1",
+						"metallix-crit"
+					]
+				]
+			],
+			[
+				99996.4824120603,
+				[
+					[
+						"Screen Shake",
+						"3, 0.15",
+						"3, 0.10"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 200,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "War"
+	}
+}
