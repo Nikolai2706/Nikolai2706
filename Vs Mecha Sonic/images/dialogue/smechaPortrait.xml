@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="smechaPortrait.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="smecha instance 10000" x="0" y="0" width="847" height="811"/>
+	<SubTexture name="smecha instance 20000" x="847" y="0" width="847" height="811"/>
+	<SubTexture name="smecha instance 30000" x="0" y="811" width="847" height="811"/>
+	<SubTexture name="smecha instance 40000" x="847" y="811" width="847" height="811"/>
+</TextureAtlas>
