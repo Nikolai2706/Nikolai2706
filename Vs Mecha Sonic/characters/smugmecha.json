@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				180,
+				240
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "IsThatYourBest"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				181,
+				240
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "IsThatYourBest",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/IsThatYourBest",
+	"position": [
+		0,
+		50
+	],
+	"healthicon": "mecha",
+	"flip_x": false,
+	"healthbar_colors": [
+		64,
+		64,
+		192
+	],
+	"camera_position": [
+		-120,
+		-120
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

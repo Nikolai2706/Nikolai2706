@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				401,
+				260
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Mecha Dance Idle"
+		},
+		{
+			"offsets": [
+				410,
+				257
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Mecha RIGHT NOTE"
+		},
+		{
+			"offsets": [
+				368,
+				300
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Mecha LEFT NOTE"
+		},
+		{
+			"offsets": [
+				444,
+				250
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Mecha UP NOTE"
+		},
+		{
+			"offsets": [
+				440,
+				330
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Mecha DOWN NOTE"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/New_Smecha_assets",
+	"position": [
+		0,
+		50
+	],
+	"healthicon": "smecha",
+	"flip_x": false,
+	"healthbar_colors": [
+		252,
+		180,
+		36
+	],
+	"camera_position": [
+		-360,
+		-180
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				1001,
+				950
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Crit0",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				1001,
+				950
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Crit0",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				1001,
+				950
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Crit0",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				1001,
+				950
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Crit0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1001,
+				950
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "Crit0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Metallix_Crit",
+	"position": [
+		0,
+		30
+	],
+	"healthicon": "metallix",
+	"flip_x": false,
+	"healthbar_colors": [
+		64,
+		64,
+		192
+	],
+	"camera_position": [
+		-1020,
+		-790
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

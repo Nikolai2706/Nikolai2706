@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				181,
+				190
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "IllCrushYou",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/IllCrushYou",
+	"position": [
+		0,
+		50
+	],
+	"healthicon": "smecha",
+	"flip_x": false,
+	"healthbar_colors": [
+		252,
+		180,
+		36
+	],
+	"camera_position": [
+		-160,
+		-110
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

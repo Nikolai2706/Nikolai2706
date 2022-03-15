@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				-40
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Carol idle dance"
+		},
+		{
+			"offsets": [
+				209,
+				210
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Carol Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				220,
+				228
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Carol Sing Note RIGHT"
+		},
+		{
+			"offsets": [
+				220,
+				170
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Carol Sing Note DOWN"
+		},
+		{
+			"offsets": [
+				210,
+				250
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Carol Sing Note UP"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/carolEmerald_assets",
+	"position": [
+		0,
+		170
+	],
+	"healthicon": "carol",
+	"flip_x": false,
+	"healthbar_colors": [
+		102,
+		102,
+		153
+	],
+	"camera_position": [
+		-120,
+		-60
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
